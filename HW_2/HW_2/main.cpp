@@ -55,7 +55,7 @@
 // Решение
 
 #include <iostream>
-using namespace std;
+//using namespace std;
 
 struct point {
   double m_x;
